@@ -1,6 +1,6 @@
 name = "ADOLC_jll"
 uuid = "5f481b30-e4a3-563b-890b-c343462061b6"
-version = "0.0.1+0"
+version = "0.0.2+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
