@@ -1,0 +1,10 @@
+[[ADOLC]]
+arch = "x86_64"
+git-tree-sha1 = "6ebfde823f9f10596ee6ba1e312da2033b1491cc"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[ADOLC.download]]
+    sha256 = "b2538f0c74e8f4946536c0f90b62d7807e8afc97ecb264bf45cbdf3004144d7f"
+    url = "https://github.com/j-fu/ADOLC_jll.jl/releases/download/ADOLC-v0.0.1+0/ADOLC.v0.0.1.x86_64-linux-gnu-julia_version+1.10.0.tar.gz"
